@@ -1,0 +1,61 @@
+
+
+hr
+{
+	margin-left:-50px;
+	margin-right:-50px;
+	
+}
+header
+{
+	text-align:center;
+	padding-left:32px;
+	padding-right:32px;
+	word-spacing:40px;
+	color:#e6e6e6;
+	background-color:black;
+	padding: 2px;
+}
+
+.w
+{
+	color:#e6e6e6;
+}
+p 
+{
+	padding-bottom:20px;
+	line-height:25px;
+	padding-left:30px;
+	font-size:17px;
+}
+h2 
+{
+	font-style:italic;
+	font-family:"Helvetica", Helvetica, serif;
+}
+
+img 
+{
+	display:block;
+	margin:0 auto;
+}
+#wp 
+{ /* All content should be in the wrapper*/
+	box-shadow: 0px 0px 10px 3px #d6d6d6;
+	position: relative;
+	background-color:white;
+	width: 900px;
+	left:50%;
+	min-height: 100%;
+	top: 70px;
+	margin-left: -500px;
+	padding: 50px;
+	padding-top: 20px;
+}
+body 
+{
+	background-image: url("Images/dek.png");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
