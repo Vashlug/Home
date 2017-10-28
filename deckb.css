@@ -54,7 +54,7 @@ img
 }
 body 
 {
-	background-image: url("Images/dek.png");
+	background-image: url("Images/dek.PNG");
 	background-attachment:fixed;
 	background-repeat:no-repeat;
 	background-size:cover;
